@@ -1,0 +1,1 @@
+Перейти по айпишнику>Storage>Data>Datastore browser>Data>Выбрать нужную машину>Нужная машина.vmx>Download>Открыть при помощи текстового редактора>Добавить строчку: time.synchronize.allow = "FALSE">Сохранить>Перейти обратно в Datastore browser>Upload>Close
